@@ -1,0 +1,22 @@
+<layer>
+  <name>sunsariContour</name>
+  <id>LayerInfoImpl-69753d0b:18e474c22ab:-7fec</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-69753d0b:18e474c22ab:-7fd5</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-69753d0b:18e474c22ab:-7fd5</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-69753d0b:18e474c22ab:-7fed</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-03-16 13:25:18.924 UTC</dateCreated>
+  <dateModified>2024-03-16 15:22:11.698 UTC</dateModified>
+</layer>

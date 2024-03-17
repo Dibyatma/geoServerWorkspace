@@ -1,0 +1,22 @@
+<layer>
+  <name>nepal_health_facilities</name>
+  <id>LayerInfoImpl-69753d0b:18e474c22ab:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-69753d0b:18e474c22ab:-7ffc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-69753d0b:18e474c22ab:-7ffc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-69753d0b:18e474c22ab:-7ffa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-03-16 12:56:25.202 UTC</dateCreated>
+  <dateModified>2024-03-16 13:09:09.901 UTC</dateModified>
+</layer>

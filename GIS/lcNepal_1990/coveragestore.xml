@@ -1,0 +1,14 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-69753d0b:18e474c22ab:-7fe1</id>
+  <name>lcNepal_1990</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-69753d0b:18e474c22ab:-8000</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2024-03-16 14:33:25.491 UTC</dateCreated>
+  <dateModified>2024-03-16 14:34:53.142 UTC</dateModified>
+  <disableOnConnFailure>false</disableOnConnFailure>
+  <url>file://D:\landcover1990\data\np_lc_1990_v2f.tif</url>
+</coverageStore>

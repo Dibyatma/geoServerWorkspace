@@ -1,0 +1,16 @@
+<layer>
+  <name>SUNSARI</name>
+  <id>LayerInfoImpl-69753d0b:18e474c22ab:-7fea</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-69753d0b:18e474c22ab:-7feb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-03-16 13:28:21.298 UTC</dateCreated>
+</layer>

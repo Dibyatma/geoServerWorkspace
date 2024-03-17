@@ -1,0 +1,21 @@
+<layer>
+  <name>sunsariDistrict</name>
+  <id>LayerInfoImpl-69753d0b:18e474c22ab:-7fd6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-69753d0b:18e474c22ab:-7fdb</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-69753d0b:18e474c22ab:-7fdb</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-69753d0b:18e474c22ab:-7fd7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-03-16 15:16:07.599 UTC</dateCreated>
+</layer>

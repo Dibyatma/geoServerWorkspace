@@ -1,0 +1,21 @@
+<layer>
+  <name>province1withDistricts</name>
+  <id>LayerInfoImpl-69753d0b:18e474c22ab:-7fe6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-69753d0b:18e474c22ab:-7ff1</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-69753d0b:18e474c22ab:-7ff1</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-69753d0b:18e474c22ab:-7fe7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-03-16 13:57:32.657 UTC</dateCreated>
+</layer>

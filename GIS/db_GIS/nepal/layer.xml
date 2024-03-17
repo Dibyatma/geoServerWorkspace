@@ -1,0 +1,22 @@
+<layer>
+  <name>nepal</name>
+  <id>LayerInfoImpl-69753d0b:18e474c22ab:-7ff3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-69753d0b:18e474c22ab:-7ff1</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-69753d0b:18e474c22ab:-7ff1</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-69753d0b:18e474c22ab:-7ff4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-03-16 13:13:50.235 UTC</dateCreated>
+  <dateModified>2024-03-16 13:19:57.70 UTC</dateModified>
+</layer>
